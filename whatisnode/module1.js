@@ -6,4 +6,4 @@ console.log('hi');
 
 m2(); //this calls the overrided export function from module2.js
 
-console.log(_);
+//console.log(_);
